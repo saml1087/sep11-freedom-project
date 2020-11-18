@@ -9,7 +9,7 @@ I've currently defined the problem; which is to find a way to easily jot down ho
 I'm heading towards the stage of researching the problem, as I will be testing out the tool that I will be exploring: Firebase.
 Currently I'm learning the basics of Javascript in class lessons.
 At the moment I've learned about arrays which is probably crucial to my project, especially when dealing with storing multiple pieces of data.
-In addition, there's been a lot of practice of functions. This is also important as user-input is also important for a "Planner" project.  
+In addition, there's been a lot of practice of functions. This is also important as user-input is also important for a "Planner" project.
 This ultimately leads to my project, where I'm making a Homework / Assignments Tracker. This would allow a digital organizer that easily stores  
 the homework's task and its due date.
 One skill that I've learned is knowing how to learn. What I mean by this is that I'm able to learn on my own. I haven't gone into deep
