@@ -2,7 +2,7 @@
 ##### 11/16/20
 
 Some of the tools I've been considering are Node.js and Firebase!
-Node.js (https://nodejs.org/en/) and Firebase (https://firebase.google.com/) are both back-end tools.
+[Node.js](https://nodejs.org/en/) and [Firebase](https://firebase.google.com/) are both back-end tools.
 This means that they can store data and keep track of information "behind the scenes."
 My current stage during the Engineering Design Process is defining the problem.
 I've currently defined the problem; which is to find a way to easily jot down homework and assignments digitally.
