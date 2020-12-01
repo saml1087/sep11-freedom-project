@@ -20,7 +20,7 @@ install Firebase into my Web App, I went through some errors. Although I was pre
 I realized that I had installed an older version of the database. I simply debugged this by switching from a Realtime-Database into the new
 Cloud Firestore.
 
-![Code Installation](../../images/code-install.png)
+![Code Installation](../images/code-install.png)
 
 
 [Previous](entry01.md) | [Next](entry03.md)
