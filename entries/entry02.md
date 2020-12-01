@@ -25,6 +25,8 @@ Cloud Firestore.
 <!--![Code Installation](../images/code-install.png)-->
 ``` javascript
 <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+```
+``` javascript
 <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-firestore.js"></script>
 ```
 
