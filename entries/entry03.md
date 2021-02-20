@@ -51,7 +51,7 @@ however, all it's doing is basically waiting for the document from the Cloud fir
 
 Lastly, I've acquired some new skills throughout the Freedom Project. Specifically, I've learned about Time Management and Organization. These two skills are incredibly useful and needed. I've learned to time manage more efficiently.
 Obviously, there would be time to break and time to work. In making my mini-project, I've learned that I shouldn't cram information in my head. What works best for me is looking at the documentation or guide, then taking a break from it
-before looking at it again. This helps for me especially since it's more efficient than trying to understand something by spending more time as my mind cannot comprehend it. This also brings me into **organization**. I've learned to take notes
+before looking at it again. This helps for me especially since it's more efficient than trying to understand something by spending more time as my mind cannot comprehend it. This also brings me into the skill of organization. I've learned to take notes
 while being organized. In order to do this, I've actually cleared my repl and started from scratch. The previous file I had was unbearable as it was a mess. To make it more organized, I've started using comments as notes which helps me organize
 it far better than I've done before. It makes it clearer and easier to access my scripts.
 
