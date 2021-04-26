@@ -64,7 +64,7 @@ In the modified version, after receiving a number of assignments (as determined 
 
 To show how this would look like in the Cloud Firestore database, look in the image below.
 
-![screenshot 5](entry-snips/entry05-screenshots/screenshot5.png)
+![screenshot 5](entry-snips/entry04-screenshots/screenshot5.png)
 
 [Previous](entry03.md) | [Next](entry05.md)
 
