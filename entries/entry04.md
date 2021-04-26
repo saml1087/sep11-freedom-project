@@ -5,7 +5,7 @@ Through the course of this entry, I will go through the process of creating the 
 
 Here is the **timeline** that focuses on what I did this week.
 
-![timeline](/sep11-freedom-project/screenshots/entry04-screenshots/timeline.png)
+![timeline](/screenshots/entry04-screenshots/timeline.png)
 
 Throughout this project, I've done my testing on my demo-website which is [here](https://ide-28ce95ffd3744292bda1b0e1ac9b55a5-8081.cs50.ws/index.html) for reference. My testing done with Firebase will be located [here](https://replit.com/@SamLee5/Testing-FireStore#script.js). Some addition sources I've used as reference were firebase's [documentation](https://firebase.google.com/docs/firestore/manage-data/add-data) on adding data and a simple [keycode grabber](https://keycode.info/)
 
