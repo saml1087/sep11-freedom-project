@@ -5,7 +5,7 @@ Through the course of this entry, I will go through the process of creating the 
 
 Here is the **timeline** that focuses on what I did this week.
 
-![timeline](/screenshots/entry04-screenshots/timeline.png)
+![timeline](/entry04-screenshots/timeline.png)
 
 Throughout this project, I've done my testing on my demo-website which is [here](https://ide-28ce95ffd3744292bda1b0e1ac9b55a5-8081.cs50.ws/index.html) for reference. My testing done with Firebase will be located [here](https://replit.com/@SamLee5/Testing-FireStore#script.js). Some addition sources I've used as reference were firebase's [documentation](https://firebase.google.com/docs/firestore/manage-data/add-data) on adding data and a simple [keycode grabber](https://keycode.info/)
 
@@ -13,7 +13,11 @@ At this point of time, I'm at the **create a prototype** stage of the Engineerin
 
 As I was coding in script.js in my demo-website, I ran into an error. (Code Below)
 
-![error1](/screenshot/entry04-screenshots/error1.png)
+![error1](entry04-screenshots/error1.png)
+
+The first three lines are there for the set-up. I've created three separate variables that grabbed using the `querySelector()` some HTML as well as the first variable that uses `createElement()` to make a list component. Then I continued on with the Button feature. How would I be able to make the application listen for an event? Well, it was obviously needing the `addEventListener` for `click`. Now the slight mistake that I had was actually a typo.
+
+![fixerror1](entry04-screenshots/fixerror1.png)
 
 
 
