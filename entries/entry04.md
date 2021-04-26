@@ -5,7 +5,7 @@ Through the course of this entry, I will go through the process of creating the 
 
 Here is the **timeline** that focuses on what I did this week.
 
-![timeline-img](../screenshots/entry04-screenshots/timeline.png)
+![timeline-img](./screenshots/entry04-screenshots/timeline.png)
 
 [Previous](entry03.md) | [Next](entry05.md)
 
