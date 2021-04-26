@@ -23,6 +23,11 @@ The first three lines are there for the set-up. I've created three separate vari
 
 As you can see above, I've made a simple typo error because the names were mismatched. It's very common that these mistakes happen, and it's very possible that a whole program wouldn't work because of one typo. Obviously, it should be easy to fix, but I would like to emphasize that these errors are common and they do happen.
 
+**Image of the Console**
+
+![console](entry-snips/entry04-screenshots/console.png)
+
+From the image above, you can see that after pressing the "Enter" button, the console picks up whatever what typed into the input.
 
 
 [Previous](entry03.md) | [Next](entry05.md)
