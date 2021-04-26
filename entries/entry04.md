@@ -7,6 +7,8 @@ Here is the **timeline** that focuses on what I did this week.
 
 ![timeline](../screenshots/entry04-screenshots/timeline.png)
 
+Throughout this project, I've done my testing on my demo-website which is [here](https://ide-28ce95ffd3744292bda1b0e1ac9b55a5-8081.cs50.ws/index.html) for reference.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
