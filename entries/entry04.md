@@ -11,6 +11,9 @@ Throughout this project, I've done my testing on my demo-website which is [here]
 
 At this point of time, I'm at the **create a prototype** stage of the Engineering Design Process. I've been working on the HTML portion and the DOM portion of my web application in the previous weeks. I've been able to add some CSS to make my web application a little more pleasing to the eye. In this entry, I will be going over the DOM that I have added as well as some additional Firebase tinkering that will be soon added to my demo-website. In the coming weeks, I'll be soon finishing adding aspects of my tool, Firebase, into my application as well as testing my protocol and try to prevent any source of bugs and errors.
 
+As I was coding in script.js in my demo-website, I ran into an error. (Code Below)
+![error1](/screenshot/entry04-screenshots/error1.png)
+
 
 
 [Previous](entry03.md) | [Next](entry05.md)
