@@ -56,9 +56,13 @@ I've done a little more tinkering with the tool. As seen by entry03, (image belo
 
 ![screenshot1](entry-snips/entry04-screenshots/screenshot1.png)
 
+Giving a quick summary of the code, it essentially makes a document with the user's name while prompting for the "name" and the "assignment." With the values, it then stores it in a collection full of users, and the document inside the collection will contain the data that includes the "name" and the "assignment."
+
 In order to modify the code, I've realized that I could run it through a loop and essentially just save an array of assignments. The code below is the modified version.
 
 ![screenshot4](entry-snips/entry04-screenshots/screenshot4.png)
+
+In lines 37-45, it includes a simple loop that continues infinitely until the user stops it. This will simulate the assignment a typical person has (usually more than 1).
 
 In the modified version, after receiving a number of assignments (as determined by the user), the data now saves the entire array (line 50).
 
@@ -66,9 +70,10 @@ To show how this would look like in the Cloud Firestore database, look in the im
 
 ![screenshot 5](entry-snips/entry04-screenshots/screenshot5.png)
 
-With the assignment stored as an array, it would be easier to possibly connect it with the DOM by using a `.forEach()` method to print out each index of the array.
+With the assignment stored as an array, it would be easier to possibly connect it with the DOM by using a `.forEach()` method to print out each index of the array. The data could then be saved. My next steps with this would be now printing back the values of the array into my demo-project.
 
 *****
+Through the past weeks, I've learned how to **embrace failure** as well as having more **consideration**. When coding the DOM process of my Web application, I almost always ran into errors. Whether it's a simple typo or simply because I have the wrong syntax, I've learned to embrace it. This means that I understand that there is an error, and ultimately, I'll try to fix the error. Failing to do something the first time doesn't mean I should give up. There are alternative ways to do something. Whenever I fail to do a specific tasks, I would look for other ways that I can potentially fix the error. I've also learned to have more consideration of the user using my website. It's more of the saying "putting myself in someone else's shoes." This simply means that I imagine myself using the program as someone else. For example, adding both the "keypress" and "click" function could potentially help with someone who prefers one over the other. Both embracing failure and consideration are key skills that are not just related to coding, but it could be applied to real life scenarios outside of coding.
 
 
 [Previous](entry03.md) | [Next](entry05.md)
