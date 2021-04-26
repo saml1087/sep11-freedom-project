@@ -45,6 +45,27 @@ From the image below, I added to the function a very small piece of code that es
 
 ** Note that the value is being set to `''`. This allows the textbox to be "emptied out" in a way.
 
+This is the result
+
+![result](entry-snips/entry04-screenshots/result1.png)
+
+
+## Firebase (Cloud Firestore)
+
+I've done a little more tinkering with the tool. As seen by entry03, (image below for reference) I was able to create something that takes in an assignment. However, this only saves one assignment. Thinking about my project in a broader scope, it's unlikely that someone is going to save a single assignment.
+
+![screenshot1](entry-snips/entry04-screenshots/screenshot1.png)
+
+In order to modify the code, I've realized that I could run it through a loop and essentially just save an array of assignments. The code below is the modified version.
+
+![screenshot4](entry-snips/entry04-screenshots/screenshot4.png)
+
+In the modified version, after receiving a number of assignments (as determined by the user), the data now saves the entire array (line 50).
+
+To show how this would look like in the Cloud Firestore database, look in the image below.
+
+![screenshot 5](entry-snips/entry05-screenshots/screenshot5.png)
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
