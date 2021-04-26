@@ -31,14 +31,19 @@ As you can see above, I've made a simple typo error because the names were misma
 
 From the image above, you can see that after pressing the "Enter" button on the page, the console picks up whatever what typed into the input.
 
-Now, my thought process at this time was to basically ask myself, "How do I change this from the console to the actualy webpage?" In addition, I asked myself, "Is there a way to automatically empty out the text box after sending it?"
+Now, my thought process at this time was to basically ask myself, "How do I change this from the console to the actual webpage?" In addition, I asked myself, "Is there a way to automatically empty out the text box after sending it?"
 
 Continuing on, I converted the anonymous function from the `addEventListener` into a separate function outside. What this allows me to do, is basically add the function into two separate events. One event for the button `click` itself, and one event for the `keypress` that allows something to happen when a key is pressed. In this case, I want the "Enter" on the keyboard to have the same function as the `click` event for the button. (Image Below For Reference)
 
 The code is also modified so that the `li` innerHTML gets converted, thus making it appear on the page (instead of just console.log).
+
 ![screenshot2](entry-snips/entry04-screenshots/screenshot2.png)
 
+From the image below, I added to the function a very small piece of code that essentially makes the text box blank after entering something.
 
+![screenshot3](entry-snips/entry04-screenshots/screenshot3.png)
+
+** Note that the value is being set to `''`. This allows the textbox to be "emptied out" in a way.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
