@@ -66,6 +66,11 @@ To show how this would look like in the Cloud Firestore database, look in the im
 
 ![screenshot 5](entry-snips/entry04-screenshots/screenshot5.png)
 
+With the assignment stored as an array, it would be easier to possibly connect it with the DOM by using a `.forEach()` method to print out each index of the array.
+
+*****
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
