@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Sam Lee
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about exploring the basics of Javascripts, including DOMS, as well as incorporating an outside tool that further structurizes the web application. The purpose of this blog is to guide the audience of my progress throughout the school year and help the reader understand more of my thinking and decisions when making my web application.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a Homework Organizer that contains a easy-to-use login system and simple add/delete functions with a database that allows saving. This blog will walk through my process of independently studying Firebase in order to make my homework organizer.
 
 ## Links
 
