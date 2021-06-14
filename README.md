@@ -11,10 +11,10 @@ For my project, I am making a Homework Organizer that contains a easy-to-use log
 
 [Product](https://saml1087.github.io/freedom-project-demo/landing-page.html)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1iUFEwNsB9vMn_OxEVXGai5E1D9iHrW24DpBrR6PYkHI/edit?usp=sharing)
 
 ## Implications
-X
+This project could be applied in society as a whole by making it a little easier to take notes. Of course there are multiple ways to take notes, but especially since technology is evolving, there are many ways in which a digital todo list would be beneficial to society. There may be many todo lists online already, however, I did try to create a website myself that could potentially be just as useful.
 
 ---
 
