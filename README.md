@@ -9,7 +9,7 @@ For my project, I am making a Homework Organizer that contains a easy-to-use log
 
 ## Links
 
-Product
+[Product](https://saml1087.github.io/freedom-project-demo/landing-page.html)
 
 Presentation
 
